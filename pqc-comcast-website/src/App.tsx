@@ -1048,7 +1048,7 @@ export default function PQCWebsite() {
               <Building className="text-primary interactive-icon" size={40} />
             </div>
             <h2 className="text-3xl md:text-5xl font-serif font-bold mb-6 holographic">
-              Comcast's Quantum-Safe Initiative
+              Organization Quantum-Safe Initiative
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
               Leading the telecommunications industry in quantum-safe transformation through innovative cryptographic solutions and infrastructure modernization
