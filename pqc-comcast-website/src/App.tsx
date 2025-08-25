@@ -676,7 +676,7 @@ export default function PQCWebsite() {
               <button onClick={() => scrollToSection('trends')} className="nav-item cursor-magnetic hover-text">Industry</button>
               <button onClick={() => scrollToSection('education')} className="nav-item cursor-magnetic hover-text">Learn Crypto</button>
               <button onClick={() => scrollToSection('demos')} className="nav-item cursor-magnetic hover-text">Interactive Demos</button>
-              <button onClick={() => scrollToSection('comcast')} className="nav-item cursor-magnetic hover-text">Comcast</button>
+              <button onClick={() => scrollToSection('comcast')} className="nav-item cursor-magnetic hover-text">Org</button>
               <button onClick={() => scrollToSection('metrics')} className="nav-item cursor-magnetic hover-text">Metrics</button>
             </div>
           </div>
@@ -714,7 +714,7 @@ export default function PQCWebsite() {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto" style={{color: 'var(--muted-foreground)', textShadow: '0 0 10px var(--accent)'}}>
-            Comcast's roadmap towards a quantum-safe world
+             Roadmap towards a quantum-safe world
           </p>
           
           <Button 
