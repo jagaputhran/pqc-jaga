@@ -1174,7 +1174,7 @@ export default function PQCWebsite() {
             </h2>
             
             <p className="text-xl text-white/80 mb-12 holographic">
-              Join Comcast in building a quantum-safe future for all
+              Join in building a quantum-safe future for all
             </p>
             
             <Button 
@@ -1185,7 +1185,7 @@ export default function PQCWebsite() {
                 createParticleBurst(rect.left + rect.width / 2, rect.top + rect.height / 2);
               }}
             >
-              Learn More About PQC at Comcast
+              Learn More About PQC
               <ArrowRight className="ml-2 interactive-icon" />
             </Button>
           </div>
