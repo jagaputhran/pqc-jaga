@@ -1154,11 +1154,11 @@ export default function PQCWebsite() {
               <div className="absolute inset-0 bg-gradient-to-br from-destructive/10 via-transparent to-quantum-pink/10 data-stream"></div>
               <CardHeader className="relative z-10">
                 <div className="text-5xl font-bold text-destructive mb-2 ultra-glow font-mono hover-text cursor-magnetic">{expiringProgress}%</div>
-                <CardTitle className="text-lg holographic hover-text cursor-magnetic">Legacy Certificates Expiring tracking</CardTitle>
+                <CardTitle className="text-lg holographic hover-text cursor-magnetic">Legacy Certificates Expiring</CardTitle>
               </CardHeader>
               <CardContent className="relative z-10">
                 <Progress value={expiringProgress} className="interactive-progress w-full mb-2 h-3" />
-                <p className="text-sm text-muted-foreground">Requiring immediate quantum-safe upgrade</p>
+                <p className="text-sm text-muted-foreground">Requiring immediate quantum-safe upgrade tracker</p>
               </CardContent>
             </Card>
           </div>
