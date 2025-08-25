@@ -1121,7 +1121,7 @@ export default function PQCWebsite() {
               Key Performance Indicators
             </Badge>
             <h2 className="text-3xl md:text-5xl font-serif font-bold mb-6 holographic">
-              Why It Matters
+              Why It Matters - Example
             </h2>
           </div>
           
