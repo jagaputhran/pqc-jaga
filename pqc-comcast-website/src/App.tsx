@@ -1134,7 +1134,7 @@ export default function PQCWebsite() {
               </CardHeader>
               <CardContent className="relative z-10">
                 <Progress value={compliantProgress} className="interactive-progress w-full mb-2 h-3" />
-                <p className="text-sm text-muted-foreground">Current deployment status across infrastructure</p>
+                <p className="text-sm text-muted-foreground">Track deployment status across infrastructure</p>
               </CardContent>
             </Card>
             
@@ -1146,7 +1146,7 @@ export default function PQCWebsite() {
               </CardHeader>
               <CardContent className="relative z-10">
                 <Progress value={readyProgress} className="interactive-progress w-full mb-2 h-3" />
-                <p className="text-sm text-muted-foreground">Infrastructure modernization progress</p>
+                <p className="text-sm text-muted-foreground">Infrastructure modernization progress tracking</p>
               </CardContent>
             </Card>
             
@@ -1154,7 +1154,7 @@ export default function PQCWebsite() {
               <div className="absolute inset-0 bg-gradient-to-br from-destructive/10 via-transparent to-quantum-pink/10 data-stream"></div>
               <CardHeader className="relative z-10">
                 <div className="text-5xl font-bold text-destructive mb-2 ultra-glow font-mono hover-text cursor-magnetic">{expiringProgress}%</div>
-                <CardTitle className="text-lg holographic hover-text cursor-magnetic">Legacy Certificates Expiring</CardTitle>
+                <CardTitle className="text-lg holographic hover-text cursor-magnetic">Legacy Certificates Expiring tracking</CardTitle>
               </CardHeader>
               <CardContent className="relative z-10">
                 <Progress value={expiringProgress} className="interactive-progress w-full mb-2 h-3" />
