@@ -1051,7 +1051,7 @@ export default function PQCWebsite() {
               Organization Quantum-Safe Initiative
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Leading the telecommunications industry in quantum-safe transformation through innovative cryptographic solutions and infrastructure modernization
+             How an organization can do quantum-safe transformation through innovative cryptographic solutions and infrastructure modernization
             </p>
           </div>
           
@@ -1064,7 +1064,7 @@ export default function PQCWebsite() {
                 <div className="text-center md:text-left">
                   <h3 className="text-2xl font-semibold mb-4 holographic hover-text cursor-magnetic holo-reveal" data-text="Protecting Customer Data at Scale">Protecting Customer Data at Scale</h3>
                   <p className="text-muted-foreground text-lg leading-relaxed">
-                    Securing millions of customer interactions across broadband, streaming, and digital services with quantum-resistant encryption. Our comprehensive approach ensures every touchpoint—from cable modems to streaming servers—implements post-quantum cryptographic standards.
+                    When an organization wants to be with quantum-resistant encryption. This comprehensive approach ensures every touchpoint—from data systems to streaming servers—implements post-quantum cryptographic standards.
                   </p>
                   <div className="mt-4 flex flex-wrap gap-2 justify-center md:justify-start">
                     <Badge className="interactive-badge cursor-magnetic bg-primary/20 text-primary border-primary/30">50M+ Customers</Badge>
