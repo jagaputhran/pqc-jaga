@@ -1098,7 +1098,7 @@ export default function PQCWebsite() {
                 <div className="text-center md:text-left">
                   <h3 className="text-2xl font-semibold mb-4 holographic hover-text cursor-magnetic holo-reveal" data-text="Certificate Management">Certificate Management</h3>
                   <p className="text-muted-foreground text-lg leading-relaxed">
-                    Proactively replacing vulnerable certificates and implementing quantum-safe cryptographic standards across our entire digital ecosystem. Our automated certificate lifecycle management ensures continuous protection as we transition to post-quantum algorithms.
+                    Proactively replacing vulnerable certificates and implementing quantum-safe cryptographic standards across entire digital ecosystem. Automated certificate lifecycle management ensures continuous protection as we transition to post-quantum algorithms.
                   </p>
                   <div className="mt-4 flex flex-wrap gap-2 justify-center md:justify-start">
                     <Badge className="interactive-badge cursor-magnetic bg-[color:var(--quantum-cyan)]/20 text-[color:var(--quantum-cyan)] border-[color:var(--quantum-cyan)]/30">Automated Management</Badge>
